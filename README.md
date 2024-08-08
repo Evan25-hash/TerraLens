@@ -30,7 +30,6 @@ Follow these simple steps to get started with TerraLens:
 ## Usage
 1. **Capture Image**: Tap the "Capture" button to take a photo. The app will automatically save the image along with its location data.
 2. **View Image and Location**: Access your gallery to see captured images and their location details.
-3. **Refresh Gallery**: Use the "Refresh" button to update your gallery with the latest photos and data.
 
 ## Permissions
 TerraLens requires the following permissions:
