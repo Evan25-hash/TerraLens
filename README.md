@@ -37,6 +37,16 @@ TerraLens requires the following permissions:
 - **Location**: To record where each photo is taken.
 - **Storage**: To save and manage images.
 
+## Download TerraLens
+Scan the QR code below to download the TerraLens app directly to your device:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a8206a6-a974-49cd-ae76-d8f07d6fa9c2" alt="Download TerraLens" width="200"
+       style="border: 5px solid #000; border-radius: 10px; padding: 10px;"/>
+</p>
+
+
+
 ## Preview
 Explore TerraLens with these screenshots:
 
