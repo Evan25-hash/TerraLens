@@ -43,18 +43,16 @@ Explore TerraLens with these screenshots:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d8647d79-fbaa-4a09-9645-4f7e1c3d9cb7" alt="TerraLens Start Screen" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1a7745c3-29c6-4a33-a466-a977e0b8d653" alt="TerraLens Option Screen" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d8647d79-fbaa-4a09-9645-4f7e1c3d9cb7" alt="TerraLens Start Screen" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1a7745c3-29c6-4a33-a466-a977e0b8d653" alt="TerraLens Option Screen" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/84645f17-b431-4fe6-86bf-3cc597bb3ca8" alt="TerraLens Picture Screen" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/84645f17-b431-4fe6-86bf-3cc597bb3ca8" alt="TerraLens Picture Screen" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0eb42cfc-01e1-472d-9c2f-cec5552403ec" alt="TerraLens Database Picture Screen" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0eb42cfc-01e1-472d-9c2f-cec5552403ec" alt="TerraLens Database Picture Screen" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c0c25b86-6efb-4edb-8162-852b2ee37ba3" alt="TerraLens Gallery Screen" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/80c91c59-9f87-4083-85df-8a0ec95c00db" alt="TerraLens Gallery Location Screen" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c0c25b86-6efb-4edb-8162-852b2ee37ba3" alt="TerraLens Gallery Screen" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/80c91c59-9f87-4083-85df-8a0ec95c00db" alt="TerraLens Gallery Location Screen" width="300"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github.com/user-attachments/assets/78a2fac0-55aa-488b-a61c-8efb23d8a181" alt="TerraLens Information Screen" width="600"/></td>
+    <td colspan="3"><img src="https://github.com/user-attachments/assets/78a2fac0-55aa-488b-a61c-8efb23d8a181" alt="TerraLens Information Screen" width="200"/></td>
   </tr>
 </table>
